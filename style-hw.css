@@ -1,0 +1,26 @@
+/* global css */
+*{ 
+    font-size: 10px;
+    font-weight: 500;
+}
+/* External CSS */
+h3{
+    color: rgb(254, 82, 14);
+}
+
+/* element selector */
+h4{
+    color: brown;
+}
+/* class selector */
+.messiclass{
+    color: rgb(18, 250, 14);
+}
+/* id selector */
+#vivaanid{
+    color: rgb(34, 219, 219);
+}
+/* group selector */
+h5,p{
+    color: rgb(246, 255, 0);
+}
